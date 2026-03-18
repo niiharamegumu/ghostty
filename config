@@ -1,11 +1,12 @@
 # Opion Reference: https://ghostty.org/docs/config/reference
 # === テーマ設定 ===
 # ghostty +list-themes内のテーマ
-theme = Dracula+
+#theme = Dracula+
+theme = Modus Operandi
 
 # === 背景設定 ===
 # 背景透過率(0-1)
-background-opacity = 0.7
+background-opacity = 1
 # 背景ぼかし
 background-blur = 50
 
