@@ -44,3 +44,8 @@ keybind = cmd+down=goto_split:bottom
 # タブ移動 Cmd + Option + 左右
 keybind = cmd+opt+left=previous_tab
 keybind = cmd+opt+right=next_tab
+# リサイズ
+keybind = super+shift+left=resize_split:left,30
+keybind = super+shift+right=resize_split:right,30
+keybind = super+shift+up=resize_split:up,30
+keybind = super+shift+down=resize_split:down,30
